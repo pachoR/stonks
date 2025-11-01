@@ -4,6 +4,7 @@
 [submodule "stonks-db"]
 	path = stonks-db
 	url = git@github.com:pachoR/stonks-db.git
-[submodule "stoknks-front"]
-	path = stoknks-front
+
+[submodule "stonks-front"]
+	path = stonks-front
 	url = git@github.com:pachoR/stonks-front.git
