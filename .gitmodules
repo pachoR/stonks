@@ -8,3 +8,6 @@
 [submodule "stonks-front"]
 	path = stonks-front
 	url = git@github.com:pachoR/stonks-front.git
+[submodule "stonks-ingestion"]
+	path = stonks-ingestion
+	url = git@github.com:pachoR/stonks-ingestion.git
