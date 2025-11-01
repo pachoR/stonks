@@ -1,0 +1,3 @@
+[submodule "stonks-api"]
+	path = stonks-api
+	url = git@github.com:pachoR/stonks-api.git
