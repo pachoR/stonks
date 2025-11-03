@@ -11,3 +11,6 @@
 [submodule "stonks-ingestion"]
 	path = stonks-ingestion
 	url = git@github.com:pachoR/stonks-ingestion.git
+[submodule "stonks-data-files"]
+	path = stonks-data-files
+	url = git@github.com:pachoR/stonks-data-files.git
